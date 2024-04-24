@@ -3,3 +3,7 @@
 #### Geographic trends: Analyze sales performance by region to identify areas with high demand for specific chocolates.
 #### Salesperson performance: Compare the sales volume and effectiveness of different salespeople.
 
+### Tools and Technologies:
+
+#### Microsoft Excel (data cleaning)
+#### Microsoft Power BI (data visualization)
